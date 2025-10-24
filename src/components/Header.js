@@ -20,7 +20,7 @@ function Header() {
                 <p className="subtitle">{title}</p>
             </div>
         </header>
-    )
+    );
 }
 
 export default Header;
